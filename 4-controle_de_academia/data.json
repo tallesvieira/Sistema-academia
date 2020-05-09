@@ -1,0 +1,46 @@
+{
+  "members": [
+    {
+      "id": 1,
+      "avatar_url": "https://images.unsplash.com/photo-1545559299-a7cf838c4857?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "name": "Juvenal",
+      "email": "juvena@gmail.com",
+      "birth": 865036800000,
+      "gender": "M",
+      "blood": "O+",
+      "weight": "88",
+      "height": "185"
+    },
+    {
+      "id": 2,
+      "avatar_url": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80",
+      "name": "Flávia",
+      "email": "favi@hotmail.com",
+      "birth": 386640000000,
+      "gender": "F",
+      "blood": "B+",
+      "weight": "79",
+      "height": "172"
+    }
+  ],
+  "instructors": [
+    {
+      "id": 1,
+      "avatar_url": "https://images.unsplash.com/photo-1533560974115-3c8b3b6a0082?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80",
+      "name": "Talles ",
+      "birth": 552700800000,
+      "gender": "M",
+      "services": "spinning, musculação",
+      "created_at": 1587945985934
+    },
+    {
+      "id": 3,
+      "avatar_url": "https://images.unsplash.com/photo-1548690312-e3b507d8c110?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "name": "Rosangela",
+      "birth": 638150400000,
+      "gender": "F",
+      "services": "crossfit",
+      "created_at": 1588364994787
+    }
+  ]
+}
